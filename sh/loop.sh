@@ -1,7 +1,7 @@
 while true;do
 
-echo hi
-timeout 1
+
+timeout echo hi
 
 
 done
